@@ -14,7 +14,7 @@ const UseRefComponent = () => {
  
  <input ref={myRef} type="text" />
 
- <button onClick={focusInput}>focus</button>
+ <button onClick={focusInput}>focus</button> 
  
  </>
   )
